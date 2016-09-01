@@ -20,4 +20,4 @@ forced me to deduce, experiment and research more than I have in a long time. It
 has been a rewarding experience.
 
 I hope to familiarize myself with Ada and Gnoga even more, I may even re-make my
-personal site with it and try some embedded projects with it.
+personal site with it and try some embedded projects.
