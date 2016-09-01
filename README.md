@@ -9,7 +9,7 @@ write up your UI in all Ada, though html/js/css are sure to come in handy later.
 The tutorial was written in French and assumes a linux environment. With the
 help of google translate, the comp.lang.ada newsgroup, the #Ada IRC channel on
 freenode, and much experimentation I am making some headway on following this
-guide as an english speaking wondows user. I hope to produce an English version
+guide as an english speaking windows user. I hope to produce an English version
 of the excellent tutorial, and fill in some of my own advice for the parts I
 found challenging.
 
