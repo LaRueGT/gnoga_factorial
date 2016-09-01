@@ -14,7 +14,7 @@ of the excellent tutorial, and fill in some of my own advice for the parts I
 found challenging.
 
 Ada has been a joy to program in so far, I researched it out of curiosity a few
-months ago and have been tearing my way though books and websites ever since.
+months ago and have been tearing my way through books and websites ever since.
 There is not a lot of tutorial style information on the language, which has
 forced me to deduce, experiment and research more than I have in a long time. It
 has been a rewarding experience.
